@@ -1169,7 +1169,7 @@ r:"^Lashes ([0-9]+)$"=睫毛 $1
 r:"^Param ([0-9]+)$"=参数 $1
 r:"^Person ([0-9]+)$"=人物 $1
 r:"^Makeup ([0-9]+)$"=化妆 $1
-r:"^Version: $"=版本: 
+r:"^Version: ((\d{1,3}\.){3}\d{1,3})$"="版本: $1"
 
 SkyMuseum=博物馆天空
 SkyAustria=奥地利天空
@@ -1347,6 +1347,6 @@ ImagePanelTransparentEmissive=透明的自发光图片面板（双面显像）
 ImagePanelTransparent=透明的图片面板
 ImagePanelEmissive=自发光图片面板（单面显像）
 ImagePanel=图片展示面板
-Empty=Empty
-CustomUnityAsset=CustomUnityAsset
+Empty=空原子
+CustomUnityAsset=自定义Unity资源
 ClothGrabSphere=衣服抓取控制器
