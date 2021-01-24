@@ -1,7 +1,6 @@
 # Virt-A-Mate-chinese-simplified
 Chinese simplified translation for Virt-A-Mate
 
-## 注意：每次更新游戏后请重新执行汉化教程第三步！！！
 
 Changelog:
 
