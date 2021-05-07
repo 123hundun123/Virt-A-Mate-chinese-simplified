@@ -2,7 +2,13 @@
 Chinese simplified translation for Virt-A-Mate
 
 
-Changelog:
+Changelog:  
+
+V1.6  
+1.支持最新版1.20.77.9  
+2.未汉化文本补全  
+3.修正汉化文本  
+4.更新汉化插件，提高稳定性
 
 V1.5  
 1.支持最新版1.20.1.5  
